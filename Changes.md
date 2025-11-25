@@ -41,3 +41,22 @@ The title of the page is set by `<PageTitle>` tags:
 ```
 
 Docs: https://learn.microsoft.com/en-gb/aspnet/core/get-started?view=aspnetcore-10.0
+
+---
+
+>[!tip]
+>How To delete template app
+
+To delete the template app remove `Counter.razor`, `Error.razor`  and `Weather.razor` 
+![[Pasted image 20251125131937.png]]
+
+
+Remove `NavMenu.razor` and `NavMenu.razor.css`
+![[Pasted image 20251125132218.png]]
+
+Then in `MainLayout.razor` remove 
+![[Pasted image 20251125132356.png]]
+
+And in `MainLayout.razor.css` remove or comment out
+![[Pasted image 20251125132520.png]]
+

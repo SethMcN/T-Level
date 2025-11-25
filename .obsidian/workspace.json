@@ -25,10 +25,14 @@
             "id": "50ace3395a4ccde4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Changes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Changes"
             }
           }
         ],
@@ -89,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "800ca7fd3e1967aa",
@@ -188,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,9 +209,13 @@
   },
   "active": "50ace3395a4ccde4",
   "lastOpenFiles": [
+    "Pasted image 20251125132520.png",
+    "Pasted image 20251125132356.png",
+    "Pasted image 20251125132218.png",
+    "Pasted image 20251125131937.png",
+    "Getting started.md",
     "Changes.md",
     "Blazor.md",
-    "Getting started.md",
     "README.md"
   ]
 }
