@@ -60,3 +60,5 @@ Then in `MainLayout.razor` remove
 And in `MainLayout.razor.css` remove or comment out
 ![[Pasted image 20251125132520.png]]
 
+Also in `MainLayout.razor.css` remove or comment out
+![[Pasted image 20251125132814.png]]

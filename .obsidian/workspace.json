@@ -13,24 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blazor.md",
+                "file": "Changes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blazor"
+              "title": "Changes"
             }
           },
           {
-            "id": "50ace3395a4ccde4",
+            "id": "127e869c4f0c1528",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20251125132520.png"
+                "file": "Protected routes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251125132520"
+              "icon": "lucide-file",
+              "title": "Protected routes"
             }
           }
         ],
@@ -204,16 +206,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "268e577f3cf8ad33",
+  "active": "127e869c4f0c1528",
   "lastOpenFiles": [
     "Changes.md",
-    "Images",
+    "Protected routes.md",
+    "Images/Pasted image 20251125132814.png",
+    "Getting started.md",
+    "Blazor.md",
     "Images/Pasted image 20251125132520.png",
+    "Images",
     "Images/Pasted image 20251125132356.png",
     "Images/Pasted image 20251125132218.png",
     "Images/Pasted image 20251125131937.png",
-    "Getting started.md",
-    "Blazor.md",
     "README.md"
   ]
 }
