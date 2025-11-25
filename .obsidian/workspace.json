@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Global variables.md",
+                "file": "Forms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Global variables"
+              "title": "Forms"
             }
           }
         ]
@@ -194,6 +194,7 @@
   "active": "70179660f33c0999",
   "lastOpenFiles": [
     "Blazor.md",
+    "Forms.md",
     "Global variables.md",
     "Changes.md",
     "Getting started.md",
