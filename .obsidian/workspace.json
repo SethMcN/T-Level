@@ -25,14 +25,15 @@
             "id": "50ace3395a4ccde4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Getting started.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Getting started.md",
+                "bFile": "Getting started.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Getting started"
+              "icon": "diff",
+              "title": "Diff: Getting started"
             }
           }
         ],
@@ -208,9 +209,18 @@
   },
   "active": "50ace3395a4ccde4",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Getting started.md",
+    "Images/Pasted image 20251125132814.png",
+    "Images/Pasted image 20251125132520.png",
+    "Images/Pasted image 20251125132356.png",
+    "Images/Pasted image 20251125132218.png",
+    "Images/Pasted image 20251125131937.png",
+    "Images",
+    "Global variables.md",
+    "Forms.md",
     "README.md",
     "Changes.md",
-    "Getting started.md",
     "Blazor.md"
   ]
 }
