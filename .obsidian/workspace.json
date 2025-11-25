@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forms.md",
+                "file": "Blazor/Blazor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forms"
+              "title": "Blazor"
             }
           }
         ]
@@ -191,13 +191,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70179660f33c0999",
+  "active": "268e577f3cf8ad33",
   "lastOpenFiles": [
-    "Blazor.md",
-    "Changes.md",
-    "Forms.md",
-    "Global variables.md",
-    "Getting started.md",
+    "SQL",
+    "Blazor",
+    "Blazor/Blazor.md",
+    "Blazor/Forms.md",
+    "Blazor/Changes.md",
+    "Blazor/Global variables.md",
+    "Blazor/Getting started.md",
     "Protected routes.md",
     "Images/Pasted image 20251125132814.png",
     "Images/Pasted image 20251125132520.png",
