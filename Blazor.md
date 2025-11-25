@@ -2,3 +2,4 @@
 
 [[Getting started]]
 [[Changes]]
+[[Global variables]]
