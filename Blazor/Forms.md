@@ -5,6 +5,7 @@ Easy way to make forms:
 Import:
 ``` cs
 @using System.ComponentModel.DataAnnotations
+@rendermode InteractiveServer
 ```
 
 Login form example:
